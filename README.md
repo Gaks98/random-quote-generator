@@ -14,7 +14,7 @@ This web application randomly generates quotes with different background colors 
 
 ## Link To Live Project
 
-[random quote generator]()
+[random quote generator](https://gaks98.github.io/random-quote-generator/)
 
 ### License
 
